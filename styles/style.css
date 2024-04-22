@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* index */
+header{
+    background-color: orange;
+    height: 70px;
+    line-height: 30px;
+}
+
+body header ul li{
+    display: inline;
+    background-color: #5A88BE;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body header ul{
+    text-align: center;
+}
+body header h1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body section img{
+    width: 100%;
+}
+body section{
+    display: inline;
+}
+footer {
+    text-align: center;
+    background-color: orange;
+}
+footer li{
+    display: inline;
+}
+footer ul{
+    padding: 0;    
+    text-align: center;
+    background-color: orange;
+}
+#menuimg{
+    height: 300px;
+    width: 30%;
+}
